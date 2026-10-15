@@ -1,8 +1,8 @@
 # Hi, I'm Bridget Ebeling 👋
 
-## Cybersecurity MSc Candidate | Digital Forensics & AI Systems
+## Cybersecurity MSc | Digital Forensics & AI Systems
 
-Currently completing an MS in Cybersecurity (Expected October 2026) with emphasis on AI safety, interpretability, and forensic reasoning systems.
+MS in Cybersecurity (October 2026) with emphasis on AI safety, interpretability, and forensic reasoning systems.
 
 I build applied AI systems that transform messy real-world data into practical, explainable decision-support tools. My work centers on deterministic logic design, AI-assisted data normalization, and structured LLM workflow architecture.
 
@@ -11,7 +11,7 @@ Background in anthropology and behavioral analysis informs my approach to ethica
 ---
 
 ### 🏋️ Current Focus
-- Completing MS in Cybersecurity (Expected October 2026)
+- MS in Cybersecurity (October 2026)
 - Designing structured LLM workflows with safety, interpretability, and deterministic control
 - Exploring the intersection of human behavior, cybersecurity, and forensic analysis
 
